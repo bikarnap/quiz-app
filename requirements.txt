@@ -12,3 +12,6 @@ Try to give some kind of descriptive name to branch
 * Create a Button component inside ./quiz-app/src/components that has 
 props: label
 should return: a button element with the label of ``label``
+
+* import the Button component in the ./src/App.js file and compose 
+it inside the return of App function.
