@@ -14,4 +14,4 @@ props: label
 should return: a button element with the label of ``label``
 
 * import the Button component in the ./src/App.js file and compose 
-it inside the return of App function.
+it inside the return of App function. Test it on the browser.
